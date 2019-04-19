@@ -4,10 +4,13 @@ function happyHoliday(string) {
   return "Happy holidays!";
 }
 
-function happyHolidayTo(name) {
+function happyHolidaysTo(name) {
   return "Happy holidays, you!";
 }
 
 function sayHappyHolidaysTo(name) {
   console.log("Happy holidays, you!");
 } 
+function happyHolidayTo(holiday, name) {
+  
+}
