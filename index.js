@@ -1,10 +1,10 @@
 
-function happyHolidays(string) {
+function happyHoliday(string) {
   console.log(string)
   return "Happy holidays!";
 }
 
-function happyHolidaysTo(name) {
+function happyHolidayTo(name) {
   return "Happy holidays, you!";
 }
 
