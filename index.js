@@ -15,7 +15,7 @@ function sayHappyHolidaysTo(name) {
 } 
 var message = (`Happy ${holiday}, ${name}!`);
 
-function sayHappyHolidaysTo(holiday, name) {
+function sayMessage(holiday, name) {
   console.log(message);{
     return "Happy Independence Day, you!";
   }
